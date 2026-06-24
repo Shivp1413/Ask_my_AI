@@ -1,11 +1,14 @@
-# Ask_my_AI
+# Ask My AI 
 
 **Ask_my_AI** is an open-source, secure, privacy-first local interface for running vision-language models such as **Qwen3-VL** and **SmolVLM** entirely on your own hardware.
 
-<img width="1170" height="2532" alt="IMG_8602" src="https://github.com/user-attachments/assets/b69c315d-9433-4be0-9e8c-1c55a6f7031a" />
-<img width="1170" height="2532" alt="IMG_8612" src="https://github.com/user-attachments/assets/b302c5bd-1bfa-41b6-ac6a-150168d28c12" />
-<img width="1170" height="2532" alt="IMG_8609" src="https://github.com/user-attachments/assets/b643b0cb-6a77-4ca6-8fb5-9ff4eed33e2c" />
-<img width="1170" height="2532" alt="IMG_8605" src="https://github.com/user-attachments/assets/ad54abd4-44ed-4d97-b1bd-0a52c5e9f2bc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49f429ac-7221-4fc1-90dd-656a9ecb1433" width="220" />
+  <img src="https://github.com/user-attachments/assets/0ad14149-4e65-4d80-944b-b2d76a2492eb" width="220" />
+  <img src="https://github.com/user-attachments/assets/f87301c2-86c9-4841-9ff2-311f811cb803" width="220" />
+  <img src="https://github.com/user-attachments/assets/30693f30-d5cd-4d9d-af05-b451943cc302" width="220" />
+</p>
+
 
 It can be used on a wide range of devices; however, the current repository is optimized for the **Raspberry Pi 5 (4 GB variant)**.
 
