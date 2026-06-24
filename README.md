@@ -2,6 +2,11 @@
 
 **Ask_my_AI** is an open-source, secure, privacy-first local interface for running vision-language models such as **Qwen3-VL** and **SmolVLM** entirely on your own hardware.
 
+<img width="1170" height="2532" alt="IMG_8602" src="https://github.com/user-attachments/assets/b69c315d-9433-4be0-9e8c-1c55a6f7031a" />
+<img width="1170" height="2532" alt="IMG_8612" src="https://github.com/user-attachments/assets/b302c5bd-1bfa-41b6-ac6a-150168d28c12" />
+<img width="1170" height="2532" alt="IMG_8609" src="https://github.com/user-attachments/assets/b643b0cb-6a77-4ca6-8fb5-9ff4eed33e2c" />
+<img width="1170" height="2532" alt="IMG_8605" src="https://github.com/user-attachments/assets/ad54abd4-44ed-4d97-b1bd-0a52c5e9f2bc" />
+
 It can be used on a wide range of devices; however, the current repository is optimized for the **Raspberry Pi 5 (4 GB variant)**.
 
 ## Installation
